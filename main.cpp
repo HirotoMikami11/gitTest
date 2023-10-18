@@ -31,7 +31,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 		a++;
 		b--;
-		//マージしてください！！
+		//マージお願いしまあああああああああああす
 
 
 		///

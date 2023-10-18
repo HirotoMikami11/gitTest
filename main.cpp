@@ -15,6 +15,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	/*変数いれておく*/
 	int a = 50;
 	int b = 30;
+	int Days = 20231018;
 	// ウィンドウの×ボタンが押されるまでループ
 	while (Novice::ProcessMessage() == 0) {
 		// フレームの開始

@@ -16,6 +16,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	int a = 50;
 	int b = 30;
 	int Days = 20231018;
+	int pullReqest = 0;
 	// ウィンドウの×ボタンが押されるまでループ
 	while (Novice::ProcessMessage() == 0) {
 		// フレームの開始
@@ -30,6 +31,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 		a++;
 		b--;
+		//マージしてください！！
+
 
 		///
 		/// ↑更新処理ここまで

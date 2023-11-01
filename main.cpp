@@ -36,7 +36,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		//プルリクエストの作成
 
-		//プルしました２回目
+		//変更しました
 
 		///
 		/// ↑更新処理ここまで

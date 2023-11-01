@@ -35,7 +35,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		//マージしました！
 
 		//プルリクエストの作成
-		//二回目
+
+		//プルして書き換えます！
 
 		///
 		/// ↑更新処理ここまで

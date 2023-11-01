@@ -36,7 +36,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		//プルリクエストの作成
 		
-		//再度変更
+		//競合なおしました
 
 
 		///
